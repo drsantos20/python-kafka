@@ -1,7 +1,7 @@
 # python-kafka
-###Recipes Web Crawler Using Kafka and Python
+### Recipes Web Crawler Using Kafka and Python
 
-#####Requirements:
+##### Requirements:
 1 - Kafka
 
 Mac:
